@@ -5,6 +5,7 @@ Numerical Intuition is an innovative educational game designed to enhance mathem
 
 This game is currently under development and not yet complete. However, you can clone the repository, open the source code in an IDE, and run it to start playing. Enjoy!
 
+![poster](https://github.com/BlaiseTyrel/Numerical_Intuition/assets/157566678/b4248af7-d91b-4d6b-bf5f-fe994247a000)
 
 ![Screenshot from 2024-05-30 19-22-02](https://github.com/BlaiseTyrel/Numerical_Intuition/assets/157566678/22236fb8-5342-42b4-8fee-ed4312bc0739)
 
@@ -12,6 +13,8 @@ This game is currently under development and not yet complete. However, you can 
 
 ![Screenshot from 2024-05-30 19-23-01](https://github.com/BlaiseTyrel/Numerical_Intuition/assets/157566678/26395569-c344-4061-a4a9-4c95a7461c8d)
 
-## Authors
+ <h3>Developer's Profile</h3>
 
-- [@BlaiseTyrel](https://github.com/BlaiseTyrel)
+![unnamed](https://github.com/BlaiseTyrel/Numerical_Intuition/assets/157566678/00c71a6f-db4a-4fcf-9e06-ee400b7dcef2)
+
+   <p><strong>Name:</strong> Blaise Tyrel B. Daga </p>
